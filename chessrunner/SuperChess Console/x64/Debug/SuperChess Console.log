@@ -1,0 +1,13 @@
+﻿  Bishop.cpp
+  Board.cpp
+c:\users\creature\desktop\code\cos30031-102119869\30 - doc - custom project docs\superchess console\superchess console\board.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\creature\desktop\code\cos30031-102119869\30 - doc - custom project docs\superchess console\superchess console\board.cpp(174): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Cell.cpp
+  Knight.cpp
+  Pawn.cpp
+  Piece.cpp
+  Queen.cpp
+  Rook.cpp
+  SuperChess Console.cpp
+  Generating Code...
+  SuperChess Console.vcxproj -> C:\Users\Creature\Desktop\code\cos30031-102119869\30 - DOC - Custom Project Docs\SuperChess Console\x64\Debug\SuperChess Console.exe
